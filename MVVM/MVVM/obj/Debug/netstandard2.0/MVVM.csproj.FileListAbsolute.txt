@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\MVVM\MVVM\MVVM\bin\Debug\netstandard2.0\MVVM.deps.json
+C:\Users\PC\source\repos\MVVM\MVVM\MVVM\bin\Debug\netstandard2.0\MVVM.dll
+C:\Users\PC\source\repos\MVVM\MVVM\MVVM\bin\Debug\netstandard2.0\ref\MVVM.dll
+C:\Users\PC\source\repos\MVVM\MVVM\MVVM\bin\Debug\netstandard2.0\MVVM.pdb
+C:\Users\PC\source\repos\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PC\source\repos\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PC\source\repos\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\Views\Operations.xaml.g.cs
+C:\Users\PC\source\repos\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.AssemblyInfo.cs
+C:\Users\PC\source\repos\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PC\source\repos\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.dll
+C:\Users\PC\source\repos\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\ref\MVVM.dll
+C:\Users\PC\source\repos\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.pdb
